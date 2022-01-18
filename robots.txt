@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://congvmit.github.io/sitemap.xml
